@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 Having issues? Let us know!
 - 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echo-talk/issues)
 - 💡 [Request a feature](https://github.com/AnupriyaSingh04/echo-talk/issues)
-- 📧 Email at: anupriyasingh534@gmail.com
+- 📧 Email at: rudhrapratapsingh.5.rs@gmail.com
   
 
 ---
