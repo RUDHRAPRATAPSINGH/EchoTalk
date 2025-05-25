@@ -51,7 +51,7 @@ EchoTalk is a cutting-edge voice assistant designed specifically for professiona
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/AnupriyaSingh04/echo-talk.git
+git clone [https://github.com/RUDHRAPRATAPSINGH/echo-talk.git]
 cd echo-talk
 ```
 
@@ -116,8 +116,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 📞 Support
 
 Having issues? Let us know!
-- 🐛 [Submit a bug report](https://github.com/AnupriyaSingh04/echo-talk/issues)
-- 💡 [Request a feature](https://github.com/AnupriyaSingh04/echo-talk/issues)
+- 🐛 [Submit a bug report](https://github.com/RUDHRAPRATAPSINGH/echo-talk/issues)
+- 💡 [Request a feature](https://github.com/RUDHRAPRATAPSINGH/echo-talk/issues)
 - 📧 Email at: rudhrapratapsingh.5.rs@gmail.com
   
 
